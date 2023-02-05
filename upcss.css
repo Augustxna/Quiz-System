@@ -1,0 +1,43 @@
+.form {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid black;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+.label-field-one {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.label-field-two {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.label-field-one input[type=password]{
+  margin-left: 50px;
+  width: 300px;
+}
+
+.label-field-two input[type=password] {
+    width: 300px;
+    margin-left: 26px;
+}
+
+input[type=submit] {
+    margin-left: 147px;
+    margin-bottom: 3px;
+    margin-top: 20px;
+}
+
+p {
+    margin-left: 100px;
+}

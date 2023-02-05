@@ -1,0 +1,57 @@
+.table tbody a {
+    text-decoration: none;
+    border: 1px solid grey;
+    color: black;
+    padding: 2px 2px 2px 2px;
+    background-color: #E8E8E8;
+}
+
+input[type=submit] {
+    border: 1px solid grey;
+    padding: 2px 11px 2px 11px;
+    background-color: #E8E8E8;
+}
+
+.table {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.table a {
+    text-decoration: none;
+    border: 1px solid dimgrey;
+    padding: 5px;
+    background-color: #E8E8E8;
+    color: black;
+}
+
+.table tbody td {
+    padding: 8px 8px 8px 0px;
+    border: none;
+}
+
+table {
+    border: none;
+}
+
+.table thead td {
+    border: none;
+    padding-top: 3px;
+}
+
+h2 {
+    margin-left: 60px;
+}
+
+.topnav a {
+    text-decoration: none;
+    border: 1px solid dimgrey;
+    padding: 5px;
+    background-color: #E8E8E8;
+    color: black;
+} 
+
+.topnav {
+    margin-left: 60px;
+    margin-top: 30px;
+}

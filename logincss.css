@@ -1,0 +1,43 @@
+.form {
+    display: block;
+    text-align: ;
+    margin-top: 130px; 
+    border: 2px solid black;
+    margin-left: 350px;
+    margin-right: 460px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.label-field {
+  display: flex;
+  margin-bottom: 3px;
+}
+
+.label-field input[type=text] {
+  margin-left: 50px;
+  width: 300px;
+}
+
+.label-field input[type=password] {
+  margin-left: 6px;
+  width: 300px;
+}
+
+.label-input-radio {
+  margin-left: 64px;
+  margin-bottom: 3px;
+}
+
+.sub-btn {
+    margin-left: 66px;
+    margin-bottom: 3px;
+}
+
+p {
+    margin-left: 100px;
+}
